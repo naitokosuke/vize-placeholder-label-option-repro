@@ -1,0 +1,11 @@
+{
+  "name": "vize-placeholder-label-option-repro",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "lint": "vize lint --format plain --help-level none --preset opinionated src"
+  },
+  "devDependencies": {
+    "vize": "0.476.0"
+  }
+}
